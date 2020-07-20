@@ -9,6 +9,7 @@ Features :
 - On Click of the logout button, user navigates back to the login.
 
 - URL : localhost/CI/User/login
-- DATABASE NAME : CI
+- DATABASE NAME : ci
+- DATABASE TABLE : users
 - USERNAME : admin
 - PASSWORD : admin
