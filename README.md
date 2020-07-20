@@ -10,5 +10,5 @@ Features :
 
 - URL : localhost/CI/User/login
 - DATABASE NAME : CI
-- USERNAME : ADMIN
-- PASSWORD : ADMIN
+- USERNAME : admin
+- PASSWORD : admin
