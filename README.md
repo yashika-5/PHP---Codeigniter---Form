@@ -8,7 +8,7 @@ Features :
 - Dashboard also contain a navigation bar with logout button in the top.
 - On Click of the logout button, user navigates back to the login.
 
-URL : localhost/CI/User/login
-DATABASE NAME : CI
-USERNAME : ADMIN
-PASSWORD : ADMIN
+- URL : localhost/CI/User/login
+- DATABASE NAME : CI
+- USERNAME : ADMIN
+- PASSWORD : ADMIN
